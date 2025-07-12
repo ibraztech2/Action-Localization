@@ -50,6 +50,6 @@ This app is designed to run entirely in Google Colab, using GPU resources for ef
 Ibrahim Mustapha
 Mechatronics Engineering Student | Computer Vision & AI Enthusiast
 🔗 [GitHub](@ibraztech2)
+🔗 [linkedin](https://www.linkedin.com/in/ibraztech)
 📧 [Email](mustaphaibraz9@gmail.com)
-[linkedin](https://www.linkedin.com/in/ibraztech)
 
