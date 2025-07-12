@@ -44,9 +44,12 @@ This app is designed to run entirely in Google Colab, using GPU resources for ef
 │   ├── demo/                         #    - Sample media for testing
 └── requirements.txt                  # 📌 Python dependencies
 
+[Google colab](https://colab.research.google.com/drive/1_5k5CNtlGTmzqxFgkXAll-VXdB4l4KkJ#scrollTo=Uc_ZquyyK_Jk) 
+
 👤 Author
 Ibrahim Mustapha
 Mechatronics Engineering Student | Computer Vision & AI Enthusiast
-🔗 GitHub: @ibraztech2
-📧 Email: mustaphaibraz9@gmail.com
+🔗 [GitHub](@ibraztech2)
+📧 [Email](mustaphaibraz9@gmail.com)
+[linkedin](https://www.linkedin.com/in/ibraztech)
 
